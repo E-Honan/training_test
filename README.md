@@ -13,3 +13,5 @@ Learning objectives for the lesson:
  - Version control
  - Have backups of projects and data 
 
+
+# This is the line on which to create a merge error 

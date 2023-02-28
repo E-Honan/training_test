@@ -7,8 +7,9 @@ Learning objectives for the lesson:
  - practice making a commit 
  - later we'll see how to access this repository in RStudio
 
-## Advantages to usinggit in RStudio 
+## Advantages to using git in RStudio 
 
  - Easy to **share** projects and **collaborate** on projects 
  - Version control
  - Have backups of projects and data 
+

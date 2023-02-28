@@ -3,9 +3,9 @@ Test repo for git/github lesson in ADC Reproducible practices in R training cour
 
 
 Learning objectives for the lesson: 
- - demonstrate how to create a repository in github
- - practice making a commit 
- - later we'll see how to access this repository in RStudio
+ - Demonstrate how to create a repository in github
+ - Practice making a commit 
+ - Later we'll see how to access this repository in RStudio
 
 ## Advantages to using git in RStudio 
 
